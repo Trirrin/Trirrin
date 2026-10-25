@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&random=true&width=620&lines=%E4%BD%A0%E5%A5%BD%E5%91%80;%E6%88%91%E6%98%AF%20Trirrin;%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0%E5%96%B5;%E5%B9%BF%E4%B8%9C%20%C2%B7%20%E6%B7%B1%E5%9C%B3)](https://typing-svg.demolab.com)
 
 [![关注者](https://img.shields.io/github/followers/Trirrin?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=7AA2F7)](https://github.com/Trirrin?tab=followers)
-![访客](https://komarev.com/ghpvc/?username=Trirrin&label=%E8%AE%BF%E5%AE%A2&style=flat-square&color=7AA2F7)
+![访客](https://img.shields.io/badge/%E8%AE%BF%E5%AE%A2-555555?style=flat-square)![](https://komarev.com/ghpvc/?username=Trirrin&label=%C2%A0&style=flat-square&color=7AA2F7)
 
 </div>
 
