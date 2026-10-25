@@ -35,15 +35,12 @@
 ## 📊 提交概览
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trirrin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub 统计" />
+  <img width="31%" src="https://github-readme-stats.vercel.app/api?username=Trirrin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub 统计" />
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trirrin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="语言占比（个人仓库）" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Trirrin&theme=tokyonight&hide_border=true" alt="连续提交统计" />
-</p>
-
-<p align="center">
-  <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trirrin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="语言占比（个人仓库）" />
+  <img width="63%" src="https://streak-stats.demolab.com?user=Trirrin&theme=tokyonight&hide_border=true" alt="连续提交统计" />
 </p>
 
 <p align="center">
