@@ -34,17 +34,21 @@
 
 ## 📊 提交概览
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trirrin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub 统计" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Trirrin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub 统计" />
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Trirrin&theme=tokyonight&hide_border=true" alt="连续提交统计" />
+</p>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Trirrin&theme=tokyonight&hide_border=true" alt="连续提交统计" />
+<p align="center">
+  <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trirrin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="语言占比（个人仓库）" />
+</p>
 
-<img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trirrin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="语言占比（个人仓库）" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Trirrin/Trirrin/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution-grid-snake" src="https://github.com/Trirrin/Trirrin/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Trirrin/Trirrin/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution-grid-snake" src="https://github.com/Trirrin/Trirrin/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
